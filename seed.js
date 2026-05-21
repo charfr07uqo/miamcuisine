@@ -715,7 +715,7 @@ const recettes = [
     id: 'rec_biscuits_tahini_dattes',
     titre: 'Biscuits chocolat noir, tahini et dattes',
     description: 'Des biscuits moelleux et bien dodus qui nous amènent hors des sentiers battus grâce au tahini et à la touche d\'huile de sésame grillé.',
-    imageUrl: '/images/recettes/biscuit tahini.jpg',
+    imageUrl: '/images/recettes/biscuits-tahini-dattes.jpg',
     categorie: 'dessert',
     tempsPreparation: 15,
     tempsCuisson: 12,
